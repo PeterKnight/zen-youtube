@@ -27,3 +27,8 @@ The sidebar on the right has video suggestions, often of completely unrelated th
 
 This stylesheet removes the image previews so that it only shows the video title. Hovering over any listing brings up the image preview so if you do continue you viewing experience, you know what you're clicking on.
 
+* Search filters permanently shown *
+
+To search productively, using search filters is a must. Youtube has hidden these through a dropdown, adding needless steps to making frequent types of filtered searches.
+
+The search filters are now displayed by default on the search results page, allowing easier, faster, more convenient access.
