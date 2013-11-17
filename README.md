@@ -7,7 +7,7 @@ A simple userstyle sheet for youtube that takes out all that is distracting
 Features
 =======
 
-*A naked search box*
+**A naked search box**
 
 Creates a clean front page, devoid of youtube video suggestions, showing just the search bar.
 
@@ -15,19 +15,19 @@ Why? Imagery affects mood and you never what you are going to get on the front p
 
 Now, the front page doesn't subject you to this stimuli and let's you be focused on what you wanted to search for.
 
-*Comments hidden*
+**Comments hidden**
 
 There are precious few videos with useful comments - on the whole it's not worth the trouble of having it activated. Worthwhile videos will be talked about on other sites that do have worthwhile comments. That is where it is at.
 
 For this reason, this stylesheet will hide the comments section entirely.
 
-*Minimally displayed related videos*
+**Minimally displayed related videos**
 
 The sidebar on the right has video suggestions, often of completely unrelated things and often sparking subtle emotional reactions ranging from disgust, to humour etc.
 
 This stylesheet removes the image previews so that it only shows the video title. Hovering over any listing brings up the image preview so if you do continue you viewing experience, you know what you're clicking on.
 
-* Search filters permanently shown *
+**Search filters permanently shown**
 
 To search productively, using search filters is a must. Youtube has hidden these through a dropdown, adding needless steps to making frequent types of filtered searches.
 
