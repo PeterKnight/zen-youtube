@@ -32,3 +32,8 @@ This stylesheet removes the image previews so that it only shows the video title
 To search productively, using search filters is a must. Youtube has hidden these through a dropdown, adding needless steps to making frequent types of filtered searches.
 
 The search filters are now displayed by default on the search results page, allowing easier, faster, more convenient access.
+
+Installation
+=======
+
+Install a userstyles extension for Chrome/Chromium or Firefox and import the stylesheet.
