@@ -75,3 +75,15 @@ position: absolute;
 top: 0;
 }
 }
+
+@-moz-document url-prefix("https://www.youtube.com/user") {
+#page-container, #footer-container {
+ display:block !important;
+}
+.branded-page-related-channels {
+   display:none; 
+  }
+.video-thumb {
+display: block !important; 
+}
+}
