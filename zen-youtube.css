@@ -25,7 +25,7 @@
 	}
 }
 
-@-moz-document url-prefix("https://www.youtube.com/results") {
+@-moz-document url-prefix("http://www.youtube.com/watch"), url-prefix("https://www.youtube.com/watch") {
 	#page-container {
 		display:block !important;
 	}
@@ -35,9 +35,16 @@
 	#filter-dropdown {
 		display: block !important;
 	}
+	.watch-sidebar > div {
+		display: none !important;
+	}
+	.watch-sidebar:hover > div {
+		display: block !important;
+	}
+
 }
 
-@-moz-document url-prefix("https://www.youtube.com/watch"), url-prefix("https://youtube.com/watch"), url-prefix("http://youtube.com/watch"), url-prefix("http://www.youtube.com/watch") {
+@-moz-document url-prefix("http://www.youtube.com/watch"), url-prefix("https://www.youtube.com/watch") {
 	.video-thumb {
 		display: none !important;
 	}
@@ -93,7 +100,7 @@
 	}
 }
 
-@-moz-document url-prefix("https://www.youtube.com/user") {
+@-moz-document url-prefix("https://www.youtube.com/user"), url-prefix("http://www.youtube.com/user") {
 	#page-container, #footer-container {
 		display:block !important;
 	}
@@ -105,7 +112,7 @@
 	}
 }
 
-@-moz-document url-prefix("https://www.youtube.com/playlist") {
+@-moz-document url("https://www.youtube.com/playlist"), url("http://www.youtube.com/playlist") {
 	.video-thumb {
 		display: none !important;
 	}
